@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33502.453
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "Response_B", "Response_B\Response_B.njsproj", "{DF880B5F-13C9-43A8-A745-0443095F720D}"
+EndProject
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "Testing", "Testing\Testing.njsproj", "{4205F163-5A90-44E9-BF4F-44446153615E}"
+EndProject
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "Rewrite", "Rewrite\Rewrite.njsproj", "{451179E1-E5CE-4A21-A49A-4CE552615706}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF880B5F-13C9-43A8-A745-0443095F720D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF880B5F-13C9-43A8-A745-0443095F720D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF880B5F-13C9-43A8-A745-0443095F720D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF880B5F-13C9-43A8-A745-0443095F720D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4205F163-5A90-44E9-BF4F-44446153615E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4205F163-5A90-44E9-BF4F-44446153615E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4205F163-5A90-44E9-BF4F-44446153615E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4205F163-5A90-44E9-BF4F-44446153615E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{451179E1-E5CE-4A21-A49A-4CE552615706}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{451179E1-E5CE-4A21-A49A-4CE552615706}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{451179E1-E5CE-4A21-A49A-4CE552615706}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{451179E1-E5CE-4A21-A49A-4CE552615706}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1209A4A7-65BA-46F6-9E92-042272C13610}
+	EndGlobalSection
+EndGlobal
